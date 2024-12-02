@@ -1,0 +1,2 @@
+Step 5: Correlation Matrix
+A correlation heatmap can show how the features are related to each other.

@@ -1,0 +1,8 @@
+Let's start by performing Exploratory Data Analysis (EDA) on a dataset of our choice. For this demonstration, I'll use the Iris dataset, which is a popular dataset in machine learning and statistics. It contains 150 samples of iris flowers, with four features (sepal length, sepal width, petal length, and petal width) and a target variable (species).
+
+We will:
+
+Load the data.
+Perform basic summary statistics.
+Explore distributions, correlations, and potential outliers.
+Visualize findings using histograms, scatter plots, and heatmaps.

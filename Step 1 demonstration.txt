@@ -1,0 +1,2 @@
+Step 1: Load the Dataset
+First, let's load the dataset and display the first few rows.

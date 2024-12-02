@@ -1,0 +1,2 @@
+Step 2: Data Overview
+We'll check for basic statistics and any missing data.

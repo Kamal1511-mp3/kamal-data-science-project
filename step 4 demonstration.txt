@@ -1,0 +1,2 @@
+Step 4: Pairwise Relationships
+Let's check for relationships between the features using a pairplot.
